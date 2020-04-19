@@ -17,7 +17,7 @@ function draw()
   translate(width/2,height/2)
   //strokeWeight(2);
   rotate(t/100)
-  for(let i=0;i<5;i++)
+  for(let i=0;i<3;i++)
   {
 
     stroke(255,200,200);
